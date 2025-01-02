@@ -1,0 +1,20 @@
+.msp-shortcode-wrapper {
+    padding: 20px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.msp-shortcode-wrapper h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.msp-content {
+    line-height: 1.6;
+}
+
+.msp-style-default {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
